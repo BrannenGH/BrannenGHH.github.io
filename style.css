@@ -23,9 +23,11 @@ a{
 #programmingFrame{
   width: 50%;
   left: 0px;
+  height: 80%;
 }
 #communicationFrame{
   width: 50%;
   right: 0px;
   background-color: yellow;
+  height: 80%;
 }

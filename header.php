@@ -10,8 +10,8 @@
   <table>
     <tbody>
       <tr>
-        <td><a href="program.html">Programming</a></td>
-        <td><a href="speech.html">Speech—Langauge—Hearing Sciences</a></td>
+        <td><a href="program.php">Programming</a></td>
+        <td><a href="speech.php">Speech—Langauge—Hearing Sciences</a></td>
       </tr>
     </tbody>
   </table>

@@ -6,9 +6,9 @@ timezone: America/Chicago
 description: I am a speech–language–hearing sciences student at the University of Minnesota. I enjoy playing around with LaTeX and computers.
 
 # Your information
-email: Brannen@HurtadoHall.e
+email: Brannen@HurtadoHall.me
 author: Brannen Hall
-avatar: "_resources/profpic.jpg"
+avatar: "/resources/profpic.jpg"
 profile: I love language!
 #twitter_username: twitter_username
 #github_username:  github_username

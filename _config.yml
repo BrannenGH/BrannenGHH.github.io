@@ -1,7 +1,7 @@
 # Site settings
 title: Brannen Hall's Blog
 url: "http://hurtadohall.me"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: America/Chicago
 description: I am a speech–language–hearing sciences student at the University of Minnesota. I enjoy playing around with LaTeX and computers.
 

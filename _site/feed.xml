@@ -3,10 +3,10 @@
   <channel>
     <title>Brannen Hall's Blog</title>
     <description>I am a speech–language–hearing sciences student at the University of Minnesota. I enjoy playing around with LaTeX and computers.</description>
-    <link>http://hurtadohall.me//</link>
-    <atom:link href="http://hurtadohall.me//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 00:34:04 -0500</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 00:34:04 -0500</lastBuildDate>
+    <link>http://hurtadohall.me/</link>
+    <atom:link href="http://hurtadohall.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 29 Oct 2016 00:57:21 -0500</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 00:57:21 -0500</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;Testing some more&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Oct 2016 05:30:00 -0500</pubDate>
-        <link>http://hurtadohall.me//archivers/jekyll-gem-issue</link>
-        <guid isPermaLink="true">http://hurtadohall.me//archivers/jekyll-gem-issue</guid>
+        <link>http://hurtadohall.me/archivers/jekyll-gem-issue</link>
+        <guid isPermaLink="true">http://hurtadohall.me/archivers/jekyll-gem-issue</guid>
         
         
         <category>jekyll</category>
@@ -88,8 +88,8 @@
 
 </description>
         <pubDate>Tue, 30 Dec 2014 03:00:13 -0600</pubDate>
-        <link>http://hurtadohall.me//archivers/hello</link>
-        <guid isPermaLink="true">http://hurtadohall.me//archivers/hello</guid>
+        <link>http://hurtadohall.me/archivers/hello</link>
+        <guid isPermaLink="true">http://hurtadohall.me/archivers/hello</guid>
         
         
         <category>jekyll</category>
@@ -198,8 +198,8 @@
 
 </description>
         <pubDate>Thu, 01 Jan 1970 08:00:00 -0600</pubDate>
-        <link>http://hurtadohall.me//archivers/test</link>
-        <guid isPermaLink="true">http://hurtadohall.me//archivers/test</guid>
+        <link>http://hurtadohall.me/archivers/test</link>
+        <guid isPermaLink="true">http://hurtadohall.me/archivers/test</guid>
         
         
         <category>jekyll</category>

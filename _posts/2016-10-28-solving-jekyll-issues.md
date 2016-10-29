@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Jekyll Error: Gem Dependencies are Failing to be met"
+title:  "TEST"
 date:   2016-10-28 10:30:00
-categories: jekyll computers tech-support
-permalink: /archivers/jekyll-gem-issue
+categories: template
+permalink: /archive/test
 ---
 
-#TESTING TESTING 123
-
-Testing some more
+#Template until I get a blog post

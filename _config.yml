@@ -1,20 +1,36 @@
-title: Brannen Hall
-description: Brannen Hall's Blog
+# Site settings
+title: Brannen Hall's Blog
+url: "http://hurtadohall.me"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+timezone: America/Chicago
+description: I am a speech–language–hearing sciences student at the University of Minnesota. I enjoy playing around with LaTeX and computers.
+
+# Your information
+email: Brannen@HurtadoHall.e
 author: Brannen Hall
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/brannenghall
-about: I am an undergradute student in speech–language–hearing sciences at the University of Minnesota ― Twin Cities. I enjoy playing around with LaTeX and reading about professionalization.
+avatar: "/_resources/profpic.jpg"
+profile: I love language!
+#twitter_username: twitter_username
+#github_username:  github_username
 
-baseurl: "http://hurtadohall.me"
-url: "http://hurtadohall.me/home"
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
-#disqus_shortname: aboutashu
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
 
-enableTags: true
-tagarray: []
+# Build settings
+paginate: 5
+paginate_path: "page:num"
 
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
+highlighter: rouge
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

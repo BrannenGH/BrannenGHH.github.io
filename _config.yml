@@ -24,6 +24,11 @@ gems:
  - jekyll-gist
 # - jemoji
 
+# BibTex Citation plugin
+citation:
+    citation_style: _plugins/chicago-author-date.csl
+    citation_locale: en
+
 # Build settings
 paginate: 5
 paginate_path: "page:num"

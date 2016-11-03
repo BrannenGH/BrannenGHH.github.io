@@ -10,6 +10,8 @@ permalink: /archive/professionalization_in_the_western_world
 
 #Defining Professionalization
 
+Professionalization, or the reorganization of labor from
+
 #How Careers Have Become Professionalized Over Time?
 
 #Future Research

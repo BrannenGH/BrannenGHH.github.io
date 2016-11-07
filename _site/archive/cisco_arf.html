@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>TEST « Brannen Hall's Blog</title>
-  <meta name="description" content="#Template until I get a blog post">
+  <title>How to successfully convert .arf to .mp4 in Ubuntu 16.10 « Brannen Hall's Blog</title>
+  <meta name="description" content="#This is a quick draft at the moment">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://hurtadohall.me/archive/test">
+  <link rel="canonical" href="http://hurtadohall.me/archive/cisco_arf">
   <link rel="alternate" type="application/rss+xml" title="Brannen Hall's Blog" href="http://hurtadohall.me/feed.xml" />
 </head>
 
@@ -48,12 +48,28 @@
           <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">TEST</h1>
-    <p class="post-meta">Oct 28, 2016</p>
+    <h1 class="post-title">How to successfully convert .arf to .mp4 in Ubuntu 16.10</h1>
+    <p class="post-meta">Nov 2, 2016</p>
   </header>
 
   <article class="post-content">
-    <p>#Template until I get a blog post</p>
+    <p>#This is a quick draft at the moment</p>
+
+<h4 id="how-to-successfully-convert-arf-to-mp4">How to successfully convert .arf to .mp4</h4>
+
+<h5 id="only-if-64-bit">Only if 64-bit</h5>
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt-get install libgtk2.0-0:i386
+sudo apt-get install libpangoxft-1.0-0:i386
+</code></pre>
+</div>
+
+<h5 id="for-all">For all</h5>
+<div class="highlighter-rouge"><pre class="highlight"><code>wget http://ftp.br.debian.org/debian/pool/main/w/wxwidgets2.8/libwxbase2.8-0_2.8.12.1-12_i386.deb
+sudo dpkg -i libwxbase2.8-0_2.8.12.1-12_i386.deb
+</code></pre>
+</div>
+
+<p>Does not work atm, I need to find libwbxbase.so</p>
 
   </article>
   
@@ -69,7 +85,7 @@
           <div class="col-box col-box-author">
   <img class="avatar" src="/resources/profpic.jpg" alt="Brannen Hall">
   <div class="col-box-title name">Brannen Hall</div>
-  <p>I love language!</p>
+  <p>I am interested in Speech Perception, Language Learning, and the Sociology of Work. I also love computers, and enjoy playing around with Rust and LaTeX.</p>
   <p class="contact">
     
     
@@ -83,7 +99,11 @@
   <div class="col-box-title">Newest Posts</div>
   <ul class="post-list">
     
-      <li><a class="post-link" href="/archive/test">TEST</a></li>
+      <li><a class="post-link" href="/archive/configure_wdfs">How to Set Up WDFS  on openSUSE</a></li>
+    
+      <li><a class="post-link" href="/archive/cisco_arf">How to successfully convert .arf to .mp4 in Ubuntu 16.10</a></li>
+    
+      <li><a class="post-link" href="/archive/professionalization_in_the_western_world">The Professionaliztion Process — From Jobs to Professions</a></li>
     
   </ul>
 </div>

@@ -5,66 +5,9 @@
     <description>Brannen Haĺl's blog on computers, ESL education, language learning, and sociology.</description>
     <link>http://hurtadohall.me/</link>
     <atom:link href="http://hurtadohall.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 18:35:52 -0600</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 18:35:52 -0600</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2016 18:44:00 -0600</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 18:44:00 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>How to Set Up WDFS  on openSUSE</title>
-        <description>&lt;h1 id=&quot;how-to-mount-a-webdav-partition-on-opensuse-and-configure-opensuse-to-mount-it-at-boot&quot;&gt;How to mount a webdav partition on openSUSE and configure openSUSE to mount it at boot&lt;/h1&gt;
-
-&lt;p&gt;Webdav, a system used by owncloud and nextcloud for mounting cloud partitions, can be easily added to openSUSE. This tutorial was written for &lt;a href=&quot;https://software.opensuse.org/421/en&quot;&gt;openSUSE Leap 42.1&lt;/a&gt; and with wdfs version 1.4.2-154.2.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-install&quot;&gt;How to install&lt;/h2&gt;
-
-&lt;p&gt;Root access will be required for installing wdfs.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-to-install-by-terminal&quot;&gt;How to install by terminal&lt;/h3&gt;
-
-&lt;p&gt;Open konsole then type:
-   sudo zypper install wdfs&lt;/p&gt;
-
-&lt;h3 id=&quot;how-to-install-with-yast&quot;&gt;How to install with YaST&lt;/h3&gt;
-
-&lt;p&gt;First, open YaST2 (which is labled as YaST in the application menu in the bottom left), then type in your password. Next, click on “Software Management” then, after it loads, type in wdfs into the box and then hit the search button. Finally, click the check button to the left of “wdfs” then hit install.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-mount-a-partition&quot;&gt;How to mount a partition&lt;/h2&gt;
-
-&lt;p&gt;For this process, a terminal emulator like konsole has to be used.&lt;/p&gt;
-
-&lt;p&gt;First type:
-    sudo wdfs -o allow_others http://yourcloud.com/webdavdirectory /mountpoint
-Where http://yourcloud.com/webdavdirectory is the location of the webdav server you want to mount, and /mountpoint is the local mountpoint on your system — can be anything, if you need to set up a mountpoint, you can run:
-    mkdir ~/webdavserver
-And after that run:
-    sudo wdfs -o allow_others http://yourcloud.com/webdavdirectory ~/webdavserver
-Then type in your computer password (if asked), then your webdav username, then your webdav password.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-set-up-automatic-mounting-as-a-part-of-fstab&quot;&gt;How to set up automatic mounting as a part of fstab&lt;/h2&gt;
-
-&lt;p&gt;To mount the directory without root permissions, the fstab file has to be configured&lt;/p&gt;
-
-&lt;p&gt;#TODO&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 06 Nov 2016 13:16:00 -0600</pubDate>
-        <link>http://hurtadohall.me/archive/configure_wdfs</link>
-        <guid isPermaLink="true">http://hurtadohall.me/archive/configure_wdfs</guid>
-        
-        
-        <category>openSUSE</category>
-        
-        <category>linux</category>
-        
-        <category>how_to</category>
-        
-        <category>nextcloud</category>
-        
-        <category>webdav</category>
-        
-        <category>wdfs</category>
-        
-      </item>
     
       <item>
         <title>How to successfully convert .arf to .mp4 in Ubuntu 16.10</title>

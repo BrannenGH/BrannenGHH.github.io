@@ -20,8 +20,8 @@ profile: I am interested in Speech Perception, Language Learning, and the Sociol
 
 permalink: /archivers/:title
 gems:
-# - jekyll-paginate
-# - jekyll-gist
+ - jekyll-paginate
+ - jekyll-gist
 # - jemoji
 
 # BibTex Citation plugin

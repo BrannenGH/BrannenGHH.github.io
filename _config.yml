@@ -9,9 +9,10 @@ description: Brannen Haĺl's blog on computers, ESL education, language learning
 email: Brannen@HurtadoHall.me
 author: Brannen Hall
 avatar: "/resources/profpic.jpg"
-profile: I am interested in Speech Perception, Language Learning, and the Sociology of Work. I also love computers, and enjoy playing around with Rust and LaTeX.
+profile: I am interested in speech perception, speech signal processing, data analysis in R, preparing documents in LaTeX, bitcoin, and opensource technologies and Linux in general.
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  BrannenGHall
+bitcoin_address: 16R18XT3ZLETKWUJAZ8tfEhsnVnct9nwjC
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
@@ -22,7 +23,7 @@ permalink: /archivers/:title
 gems:
  - jekyll-paginate
  - jekyll-gist
-# - jemoji
+ - jemoji
 
 # BibTex Citation plugin
 #citation:

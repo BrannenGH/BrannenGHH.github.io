@@ -21,4 +21,4 @@ You will want to go to utilities/terminal to open up a terminal [picture]
 
 NOTE: If your keyboard or mouse is not working in this environment, you may not have the voodooHDA drivers on the EFI of the drive you booted from. 
 
-
+Then you will want to type ``diskutil list`` 

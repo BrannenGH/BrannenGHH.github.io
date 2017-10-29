@@ -23,4 +23,6 @@ NOTE: If your keyboard or mouse is not working in this environment, you may not 
 
 Then you will want to type ``diskutil list`` then look for the drive that seems to have your "Macintosh HD". Then you want to type diskutil unmountDisk /dev/disk#
 
-Then do ``fsck_apfs -qy /dev/disk#`` 
+Then do ``fsck_apfs -qy /dev/disk#``
+
+Then restart!

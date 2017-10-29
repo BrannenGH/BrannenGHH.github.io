@@ -3,16 +3,16 @@ title: Brannen Hall's Blog
 url: "http://hurtadohall.me"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: America/Chicago
-description: Brannen Haĺl's blog on computers, ESL education, language learning, and sociology.
+description: An aspiring developer.
 
 # Your information
 email: Brannen@HurtadoHall.me
 author: Brannen Hall
 avatar: "/resources/profpic.jpg"
-profile: I am interested in speech perception, speech signal processing, data analysis in R, preparing documents in LaTeX, bitcoin, and opensource technologies and Linux in general.
+profile: I 
 #twitter_username: twitter_username
-github_username:  BrannenGHall
-bitcoin_address: 16R18XT3ZLETKWUJAZ8tfEhsnVnct9nwjC
+github_username:  BrannenGHH
+ethereum_address: 0x89e618d55858B1E4Bca6acB2Da1082804C56335a
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
